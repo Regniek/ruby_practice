@@ -1,4 +1,4 @@
-# Ruby trainning
+# Ruby Trainning
 
 Hello, my friends, this repository is thought of sharping my skills with ruby and it has different modules.
 
@@ -18,6 +18,13 @@ In this part, you find the possible use for using if and case functions.
 
 In this part, you start to enjoy with the language because you find the arrays and it's possible uses.
 
+## 05 loops
+
+This part is created for knowing the different loops that you find in ruby.
 ## 99 special practice
 
 This part is to put the different exercises possible that I am resolving with pass the days.
+
+### don't forget
+
+Hey friend, please give me all feedback that you want in mi offical webpage [Regniek.dev](https://www.regniek.dev)
