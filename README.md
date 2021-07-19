@@ -21,6 +21,14 @@ In this part, you start to enjoy with the language because you find the arrays a
 ## 05 loops
 
 This part is created for knowing the different loops that you find in ruby.
+
+## 06 Matrix
+
+## 07 hash
+
+## 08 methods and arguments
+
+## 09 class and objects
 ## 99 special practice
 
 This part is to put the different exercises possible that I am resolving with pass the days.
