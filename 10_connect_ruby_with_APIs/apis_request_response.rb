@@ -15,8 +15,7 @@ url = 'https://pokeapi.co/api/v2/pokemon/92/'
 RestClient.get(url) {| response, request, result|
     if response.code == 200
         result = JSON.parse response.to_str
-        name = result['forms'][0]['name']
-        puts "El nompre del pokemon es: #{name}"
+        puts result
     end
 }
 
@@ -35,6 +34,7 @@ response2 = RestClient::Request.new(
     :method => :post,
     :url => url2,
     :payload => {name: 'CodigoFacilito'}
+    :params => {authorization: ''}
 ).execute
 
 puts response2.code

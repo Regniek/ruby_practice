@@ -36,3 +36,6 @@ This part is to put the different exercises possible that I am resolving with pa
 ### don't forget
 
 Hey friend, please give me all feedback that you want in mi offical webpage [Regniek.dev](https://www.regniek.dev)
+
+
+postgres://kfsvpyplqqqvik:9c54e002f0dbfcb080c3dee701c6f6b332889e488b983dfe51c3452335932601@ec2-3-218-71-191.compute-1.amazonaws.com:5432/d19i9hdmo4pskt
