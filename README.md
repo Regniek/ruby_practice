@@ -29,9 +29,14 @@ This part is created for knowing the different loops that you find in ruby.
 ## 08 methods and arguments
 
 ## 09 class and objects
-## 99 special practice
+
+## 10 connect ruby with API's fetch services
+## 11 special practice
 
 This part is to put the different exercises possible that I am resolving with pass the days.
+## 12 The Reuby Workshop
+
+Following the read in The Ruby Workshop Book
 
 ### don't forget
 
